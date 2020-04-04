@@ -33,17 +33,17 @@ namespace SimpleCalculator
             Console.Write("Specify the second number to calculate: ");
             double secondNum = Convert.ToDouble(Console.ReadLine());
 
-            if (calculationOp == "+")
+            if (calculationOp == "+)
             {
                 Console.WriteLine(firstNum + secondNum);
             } else if (calculationOp == "-") {
                 Console.WriteLine(firstNum - secondNum);
             }
-            else if (calculationOp == "*")
+            else if (calculationOp == "x")
             {
                 Console.WriteLine(firstNum * secondNum);
             }
-            else if (calculationOp == "/")
+            else if (calculationOp == "d")
             {
                 Console.WriteLine(firstNum / secondNum);
             }

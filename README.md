@@ -13,7 +13,7 @@ Substraction = -
 * V1.1
   Make program support normal letters instead of normal C# ones (done)
   
-  Make program be able to count more than once without reopening? (not done)
+  Make program be able to count more than once without reopening (done)
 
 
 * V1

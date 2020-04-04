@@ -8,6 +8,12 @@ Division = D
 Addition = +
 Substraction = -
 
+# To note:
+* Do not type letters into the number spot. It will freeze the calculator and will be needed to be reopened.
+
+
+
+
 # Changelog
 
 * V1.1

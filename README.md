@@ -3,7 +3,7 @@ Simple calculator written in C#. Nothing much, if you want to contribute and hel
 
 # Operators
 List of operators the program uses. I will updated this to letters soon.
-* = Multiplication
-/ = Division
-+ = Addition
-- = Substraction 
+> * = Multiplication
+> / = Division
+> + = Addition
+> - = Substraction 

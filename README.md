@@ -11,8 +11,8 @@ Substraction = -
 # To note:
 * Do not type letters into the number spot. It will freeze the calculator and will be needed to be reopened.
 
-# To Do
-* Make a form for it to run on (Making)
+# To do
+* Add a form to the program
 * Add a way for it to recognize an invalid number to calculate
 
 # Changelog

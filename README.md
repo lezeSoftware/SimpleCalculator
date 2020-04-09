@@ -22,7 +22,10 @@ Substraction = -
 
 # Changelog
 
-
+* V1.2
+Add a form for it to run on (not done)
+Add a way for it to recognize invalid numbers (not done)
+Add support for percentage calculation (not done)
 
 * V1.1
   Make program support normal letters instead of normal C# ones (done)

@@ -13,9 +13,9 @@ namespace SimpleCalculator // IF you use this source to make something of your o
         static void Main(string[] args)
         {
             Console.WriteLine("Simple calculator written in C#. Made by nukiz.");
-            Console.WriteLine("Initializing...")
+            Console.WriteLine("Initializing...");
 
-            ; Console.Title = Title;
+            Console.Title = Title;
 
             Console.WriteLine("Succesfully Initialized! Press any key to continue.");
             Console.ReadLine();

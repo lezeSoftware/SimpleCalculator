@@ -14,6 +14,7 @@ Substraction = -
 # To do
 * Add a form to the program
 * Add a way for it to recognize an invalid number to calculate
+* Add support for percentage calculation
 
 # Changelog
 

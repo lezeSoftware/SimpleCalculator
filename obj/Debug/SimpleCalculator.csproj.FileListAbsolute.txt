@@ -1,0 +1,7 @@
+W:\OneDrive\10 Programmierung\20_C#\51 Calc von GitHub\SimpleCalculator\obj\Debug\SimpleCalculator.csprojAssemblyReference.cache
+W:\OneDrive\10 Programmierung\20_C#\51 Calc von GitHub\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+W:\OneDrive\10 Programmierung\20_C#\51 Calc von GitHub\SimpleCalculator\bin\Debug\HelloWorld.exe.config
+W:\OneDrive\10 Programmierung\20_C#\51 Calc von GitHub\SimpleCalculator\bin\Debug\HelloWorld.exe
+W:\OneDrive\10 Programmierung\20_C#\51 Calc von GitHub\SimpleCalculator\bin\Debug\HelloWorld.pdb
+W:\OneDrive\10 Programmierung\20_C#\51 Calc von GitHub\SimpleCalculator\obj\Debug\HelloWorld.exe
+W:\OneDrive\10 Programmierung\20_C#\51 Calc von GitHub\SimpleCalculator\obj\Debug\HelloWorld.pdb
